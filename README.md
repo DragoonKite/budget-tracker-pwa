@@ -13,6 +13,9 @@ To take the starter code containg a budget tracking app and improve upon it. The
 ## Contents
 The starter code conatined the server file, routes, models, css, icons, index.js, and index.html file. The added code is in the service-worker.js, manifest.json, and idb.js files.
 
+## Screenshot
+![Example screenshot](./screenshot.png)
+
 ## Deployed At
 https://stormy-cliffs-66124.herokuapp.com/
 
